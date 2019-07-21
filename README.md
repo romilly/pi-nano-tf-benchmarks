@@ -1,7 +1,6 @@
 # TensorFlow and TF-TRT benchmarks
 
-Setup details and notebooks for
-the benchmarks I ran on the Raspberry Pi 4 and Jetson Nano.
+Setup and running details are [on my blog](https://blog.rareschool.com/).
 
 ## Setup
 
